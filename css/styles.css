@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    width: 100%;
+     background-image: url(images/jekky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1 {
+    color: cyan;
+    text-align: center;
+    font-family: 'Miniver', cursive;
+}
+
+p {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Miniver', cursive;
+}
+h3 {
+    text-align: center;
+    color: blue;
+    font-family: 'Metal Mania', cursive;
+
+        
+}
